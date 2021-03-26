@@ -1,0 +1,38 @@
+@charset "UTF-8";
+.container {
+    margin-top: 20px;
+}
+h5 {
+    color: #000000;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    text-shadow: 5px 0px 5px #7E63EB;
+    font-weight: bold;
+    font-size: xx-large;
+}
+h1 {
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+}
+
+p {
+    color: #000000;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: medium;
+    text-decoration: none;
+    text-align: justify;
+}
+#collapseOne1 .card-body img {
+    float: left;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+#collapseOne1 .card-body img {
+    float: left;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+tr td iframe {
+    margin-left: 40px;
+
+}
